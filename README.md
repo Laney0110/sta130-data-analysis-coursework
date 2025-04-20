@@ -10,15 +10,15 @@ STA130 introduces students to the fundamentals of statistical reasoning and data
 
 The repository includes the following assignments:
 
-- **Homework 1**: Introduction to R and RStudio; basic data types and operations  
-- **Homework 2**: Data visualization using ggplot2; understanding distributions  
-- **Homework 3**: Data wrangling with dplyr; transforming and summarizing data  
-- **Homework 4**: Hypothesis testing; one and two-sample tests  
-- **Homework 5**: Bootstrap confidence intervals; resampling techniques  
-- **Homework 6**: Simple linear regression; interpreting model outputs  
-- **Homework 7**: Multiple linear regression; model selection and diagnostics  
-- **Homework 8**: Classification methods; decision trees and evaluation metrics  
-- **Homework 9**: Ethical considerations in data science; study design principles  
+- **1**: Introduction to R and RStudio; basic data types and operations  
+- **2**: Data visualization using ggplot2; understanding distributions  
+- **3**: Data wrangling with dplyr; transforming and summarizing data  
+- **4**: Hypothesis testing; one and two-sample tests  
+- **5**: Bootstrap confidence intervals; resampling techniques  
+- **6**: Simple linear regression; interpreting model outputs  
+- **7**: Multiple linear regression; model selection and diagnostics  
+- **8**: Classification methods; decision trees and evaluation metrics  
+- **9**: Ethical considerations in data science; study design principles  
 
 ## Technologies Used
 
